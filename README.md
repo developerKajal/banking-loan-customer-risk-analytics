@@ -45,6 +45,17 @@ The dashboard includes key performance indicators such as:
 * Average Credit Score
 * Approval Rate
 
+## Dashboard Preview
+
+### Page 1
+![Banking Loan Dashboard - Page 1](banking-loan-dashboard-1.png)
+
+### Page 2
+![Banking Loan Dashboard - Page 2](banking-loan-dashboard-2.png)
+
+### Page 3
+![Banking Loan Dashboard - Page 3](banking-loan-dashboard-3.png)
+
 ## Business Questions
 
 This project explores questions such as:
